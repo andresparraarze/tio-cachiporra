@@ -1,2 +1,4 @@
 node_modules
-SD_storage
+package-lock.json
+.vscode
+.DS_Store
